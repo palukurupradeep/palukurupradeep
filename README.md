@@ -4,7 +4,7 @@
 
 I build production AI solutions using Azure AI Foundry, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, LangChain, Python, FastAPI, Kubernetes and Azure.
 
-🎓 FDE Academy | Cohort 2026
+🎓 Currently pursuing Advanced Certification in Forward Deployed Engineering at FDE Academy (Cohort 2026)
 
 ---
 
