@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Pradeep Gowtham
 
-<!--
-**palukurupradeep/palukurupradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Forward Deployed Engineer | Applied AI Engineer
 
-Here are some ideas to get you started:
+I build production AI solutions using Azure AI Foundry, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, LangChain, Python, FastAPI, Kubernetes and Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 FDE Academy | Cohort 2026
+
+---
+
+## 🚀 Tech Stack
+
+- Azure AI Foundry
+- Azure OpenAI
+- Python
+- LangChain
+- FastAPI
+- Docker
+- Kubernetes
+- Azure
+- GitHub Actions
+- Terraform
+- Vector Databases
+
+---
+
+## 🔥 Featured Projects
+
+- Enterprise RAG Chatbot
+- AI Incident Response Assistant
+- Multi-Agent Research Assistant
+- Azure AI Knowledge Assistant
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/pradeep-gowtham-18022039
+- Email: pradeepgowtham04@gmail.com
