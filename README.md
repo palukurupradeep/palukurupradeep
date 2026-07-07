@@ -26,10 +26,7 @@ I build production AI solutions using Azure AI Foundry, Retrieval-Augmented Gene
 
 ## 🔥 Featured Projects
 
-- Enterprise RAG Chatbot
-- AI Incident Response Assistant
-- Multi-Agent Research Assistant
-- Azure AI Knowledge Assistant
+Coming Soon
 
 ---
 
